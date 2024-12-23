@@ -1,11 +1,5 @@
 # ELK Automation Script
 
-![ELK](https://www.elastic.co/)
-![ELK Logo](https://static-www.elastic.co/v3/assets/bltefdd0b53724fa2ce/blt36f2da8d650732a0/5d0823c3d8ff351753cbc99f/logo-elasticsearch-32-color.svg)
-![ELK logo](https://cdn.prod.website-files.com/61bcfa6e82d1a9800fdaddf3/646e6263710e07588ee6c1c2_elastic-kibana-logo-vector.svg)
-
-![Bash](https://bashlogo.com/img/logo/jpg/full_colored_light.jpg)
-
 
 
 

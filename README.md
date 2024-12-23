@@ -28,7 +28,7 @@ Before running the script, ensure the following:
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/elk-automation.git
+   git clone https://github.com/someone0x0/elk-automation.git
    cd elk-automation
    ```
 
@@ -91,12 +91,6 @@ Contributions are welcome! Feel free to open issues or submit pull requests to e
 ## License
 This project is licensed under the [MIT License](LICENSE).
 
----
-
-## Acknowledgments
-- **Al al-Bayt University**
-- Supervisor: Dr. Areej Al Shorman
-- Presented by: Baraa Mohammad Mahmoud Ibrahim
 
 ---
 

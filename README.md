@@ -95,4 +95,4 @@ This project is licensed under the [MIT License](LICENSE).
 ---
 
 ## Contact
-For inquiries or feedback, contact: your.email@example.com
+For inquiries or feedback, contact: someone0x00@proton.me

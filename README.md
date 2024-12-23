@@ -4,7 +4,7 @@
 ![ELK Logo](https://static-www.elastic.co/v3/assets/bltefdd0b53724fa2ce/blt36f2da8d650732a0/5d0823c3d8ff351753cbc99f/logo-elasticsearch-32-color.svg)
 ![ELK logo](https://static-www.elastic.co/v3/assets/bltefdd0b53724fa2ce/blt4466841eed0bf232/5d082a5e97f2babb5af907ee/logo-kibana-32-color.svg)
 
-![Bash](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.educative.io%2Fanswers%2Fwhat-is-bash&psig=AOvVaw31KFhdoZQxDwVva7c4Z7Ep&ust=1735022669334000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOj7h6KlvYoDFQAAAAAdAAAAABAE)
+![Bash](https://bashlogo.com/img/logo/jpg/full_colored_light.jpg)
 
 
 

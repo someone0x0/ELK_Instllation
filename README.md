@@ -1,6 +1,6 @@
 # ELK Automation Script
 
-![ELK Logo](assets/logo-kibana-32-color.svg)
+![ELK Logo](https://static-www.elastic.co/v3/assets/bltefdd0b53724fa2ce/blt36f2da8d650732a0/5d0823c3d8ff351753cbc99f/logo-elasticsearch-32-color.svg)
 
 
 ## Overview

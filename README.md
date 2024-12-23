@@ -1,5 +1,8 @@
 # ELK Automation Script
 
+![ELK Logo](assets/logo-kibana-32-color.svg)
+
+
 ## Overview
 This repository contains an automated script to simplify the installation and configuration of the Elastic Stack (Elasticsearch, Logstash, and Kibana) on Linux systems. The project aims to streamline the deployment process, making it faster, more efficient, and less prone to human error.
 

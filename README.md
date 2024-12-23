@@ -92,7 +92,7 @@ Contributions are welcome! Feel free to open issues or submit pull requests to e
 ---
 
 ## License
-This project is licensed under the [MIT License](LICENSE).
+For information about Elastic Stack subscriptions, visit [Elastic Subscriptions](https://www.elastic.co/subscriptions).
 
 
 ---

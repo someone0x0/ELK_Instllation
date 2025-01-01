@@ -8,7 +8,7 @@
 
 
 
-## Overview
+## Overview ![download (3)](https://github.com/user-attachments/assets/0e70045f-4ee0-4889-b836-5885634e61d0)
 This repository contains an automated script to simplify the installation and configuration of the Elastic Stack (Elasticsearch, Logstash, and Kibana) on Linux systems. The project aims to streamline the deployment process, making it faster, more efficient, and less prone to human error.
 
 The script supports Fedora and Debian-based distributions, enabling a robust setup for Security Information and Event Management (SIEM) solutions.

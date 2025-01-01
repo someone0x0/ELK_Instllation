@@ -1,7 +1,6 @@
 # ELK Automation Script
 
 
-![synthetic_integration](https://github.com/user-attachments/assets/13e4363d-998b-420f-82ad-016124dc1e73)
 
 
 

@@ -1,5 +1,9 @@
 # ELK Automation Script
 ![download (1)](https://github.com/user-attachments/assets/a179996d-2845-4519-ba02-326a78302a0d)
+
+
+
+
 ![download (2)](https://github.com/user-attachments/assets/652ad4ed-3ca9-4002-b1bc-af4ab47d9ab8)
 
 

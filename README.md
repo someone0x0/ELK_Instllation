@@ -1,14 +1,10 @@
 # ELK Automation Script
-![download (1)](https://github.com/user-attachments/assets/a179996d-2845-4519-ba02-326a78302a0d)
 
 
 
 
-![download (2)](https://github.com/user-attachments/assets/652ad4ed-3ca9-4002-b1bc-af4ab47d9ab8)
 
-
-
-## Overview ![download (3)](https://github.com/user-attachments/assets/0e70045f-4ee0-4889-b836-5885634e61d0)
+## Overview ![download](https://github.com/user-attachments/assets/e7c59fdb-28e8-4fcc-bc89-60c7d53ca6d7)
 This repository contains an automated script to simplify the installation and configuration of the Elastic Stack (Elasticsearch, Logstash, and Kibana) on Linux systems. The project aims to streamline the deployment process, making it faster, more efficient, and less prone to human error.
 
 The script supports Fedora and Debian-based distributions, enabling a robust setup for Security Information and Event Management (SIEM) solutions.

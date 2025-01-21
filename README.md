@@ -1,9 +1,10 @@
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
+
 # ELK Automation Script
 
 
 
 
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
 ![Elastic_stack](https://github.com/user-attachments/assets/a4545f17-d2fc-4fee-b181-1cd4b0580811)
 
 

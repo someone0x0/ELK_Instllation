@@ -3,6 +3,12 @@
 
 
 
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[![Elastic-logo]([https://badges.frapsoft.com/os/v1/open-source.png?v=103](https://www.svgrepo.com/show/303574/elasticsearch-logo.svg))](https://github.com/ellerbrock/open-source-badges/)
+
+
+
+
 
 ## Overview 
 This repository contains an automated script to simplify the installation and configuration of the Elastic Stack (Elasticsearch, Logstash, and Kibana) on Linux systems. The project aims to streamline the deployment process, making it faster, more efficient, and less prone to human error.

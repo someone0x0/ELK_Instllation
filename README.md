@@ -4,7 +4,8 @@
 
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[![Elastic-logo]([https://badges.frapsoft.com/os/v1/open-source.png?v=103](https://www.svgrepo.com/show/303574/elasticsearch-logo.svg))](https://github.com/ellerbrock/open-source-badges/)
+[![Elastic-logo](https://www.svgrepo.com/show/303574/elasticsearch-logo.svg)](https://github.com/ellerbrock/open-source-badges/)
+
 
 
 

@@ -4,7 +4,7 @@
 
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[![Elastic-logo](https://www.svgrepo.com/show/303574/elasticsearch-logo.svg)](https://github.com/ellerbrock/open-source-badges/)
+![Elastic_stack](https://github.com/user-attachments/assets/a4545f17-d2fc-4fee-b181-1cd4b0580811)
 
 
 
@@ -80,7 +80,6 @@ This project aims to:
 3. Reduce manual effort and errors during installation.
 
 ---
-![Elastic_stack](https://github.com/user-attachments/assets/a4545f17-d2fc-4fee-b181-1cd4b0580811)
 
 
 ## Components

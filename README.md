@@ -80,8 +80,8 @@ This project aims to:
 3. Reduce manual effort and errors during installation.
 
 ---
-![Elastic_stack](![image](https://github.com/user-attachments/assets/a4545f17-d2fc-4fee-b181-1cd4b0580811)
-)
+![Elastic_stack](https://github.com/user-attachments/assets/a4545f17-d2fc-4fee-b181-1cd4b0580811)
+
 
 ## Components
 - **Elasticsearch:** Centralized search and analytics engine.

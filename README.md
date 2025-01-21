@@ -80,6 +80,8 @@ This project aims to:
 3. Reduce manual effort and errors during installation.
 
 ---
+![Elastic_stack](![image](https://github.com/user-attachments/assets/a4545f17-d2fc-4fee-b181-1cd4b0580811)
+)
 
 ## Components
 - **Elasticsearch:** Centralized search and analytics engine.
@@ -88,11 +90,8 @@ This project aims to:
 
 ---
 
-## Known Limitations
-- Requires root access to execute.
-- Internet connectivity is mandatory for fetching packages.
 
----
+
 
 ## Contribution
 Contributions are welcome! Feel free to open issues or submit pull requests to enhance functionality or add features.
